@@ -1,0 +1,44 @@
+c:\users\nafis\documents\visual studio 2013\Projects\Hospital Management\Hospital Management\bin\Debug\Hospital Management.exe.config
+c:\users\nafis\documents\visual studio 2013\Projects\Hospital Management\Hospital Management\bin\Debug\DB.mdf
+c:\users\nafis\documents\visual studio 2013\Projects\Hospital Management\Hospital Management\bin\Debug\DB_log.ldf
+c:\users\nafis\documents\visual studio 2013\Projects\Hospital Management\Hospital Management\bin\Debug\Hospital Management.exe
+c:\users\nafis\documents\visual studio 2013\Projects\Hospital Management\Hospital Management\bin\Debug\Hospital Management.pdb
+c:\users\nafis\documents\visual studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital Management.csprojResolveAssemblyReference.cache
+c:\users\nafis\documents\visual studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Form1.resources
+c:\users\nafis\documents\visual studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Properties.Resources.resources
+c:\users\nafis\documents\visual studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital Management.csproj.GenerateResource.Cache
+c:\users\nafis\documents\visual studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital Management.exe
+c:\users\nafis\documents\visual studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital Management.pdb
+C:\Users\nafis\documents\visual studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.LoginOption.resources
+C:\Users\nafis\documents\visual studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Staff.resources
+C:\Users\nafis\OneDrive\Documents\Visual Studio 2013\Projects\Hospital Management\Hospital Management\bin\Debug\Hospital Management.exe.config
+C:\Users\nafis\OneDrive\Documents\Visual Studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital Management.exe
+C:\Users\nafis\OneDrive\Documents\Visual Studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital Management.pdb
+C:\Users\nafis\OneDrive\Documents\Visual Studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital Management.csprojResolveAssemblyReference.cache
+C:\Users\nafis\OneDrive\Documents\Visual Studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Staff.resources
+C:\Users\nafis\OneDrive\Documents\Visual Studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Form1.resources
+C:\Users\nafis\OneDrive\Documents\Visual Studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.LoginOption.resources
+C:\Users\nafis\OneDrive\Documents\Visual Studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Properties.Resources.resources
+C:\Users\nafis\OneDrive\Documents\Visual Studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital Management.csproj.GenerateResource.Cache
+C:\Users\nafis\OneDrive\Documents\Visual Studio 2013\Projects\Hospital Management\Hospital Management\bin\Debug\Hospital Management.exe
+C:\Users\nafis\OneDrive\Documents\Visual Studio 2013\Projects\Hospital Management\Hospital Management\bin\Debug\Hospital Management.pdb
+C:\Users\nafis\OneDrive\Documents\Visual Studio 2013\Projects\Hospital Management\Hospital Management\bin\Debug\HPP.mdf
+C:\Users\nafis\OneDrive\Documents\Visual Studio 2013\Projects\Hospital Management\Hospital Management\bin\Debug\HPP_log.ldf
+C:\Users\nafis\OneDrive\Documents\Visual Studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.MenuSt.resources
+C:\Users\nafis\OneDrive\Documents\Visual Studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.StaffLogin.resources
+C:\Users\nafis\OneDrive\Documents\Visual Studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.MenuAd.resources
+C:\Users\nafis\OneDrive\Documents\Visual Studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Patient_Registration.resources
+C:\Users\nafis\OneDrive\Documents\Visual Studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Patient_Information.resources
+C:\Users\nafis\OneDrive\Documents\Visual Studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Patient_CheckOut.resources
+C:\Users\nafis\OneDrive\Documents\Visual Studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Staff_Information.resources
+C:\Users\nafis\OneDrive\Documents\Visual Studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.UserInformation.resources
+C:\Users\nafis\OneDrive\Documents\Visual Studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.BloodBank.resources
+C:\Users\nafis\OneDrive\Documents\Visual Studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Patient_RegistrationSt.resources
+C:\Users\nafis\OneDrive\Documents\Visual Studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Patient_InformationSt.resources
+C:\Users\nafis\OneDrive\Documents\Visual Studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Patient_StatusSt.resources
+C:\Users\nafis\OneDrive\Documents\Visual Studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.BloodBankSt.resources
+C:\Users\nafis\OneDrive\Documents\Visual Studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Doctor.resources
+C:\Users\nafis\OneDrive\Documents\Visual Studio 2013\Projects\Hospital Management\Hospital Management\obj\Debug\Hospital_Management.Doctorview.resources
+X:\Study\C#\Project\Hospital Management\Hospital Management\bin\Debug\Hospital Management.exe.config
+X:\Study\C#\Project\Hospital Management\Hospital Management\obj\Debug\Hospital Management.exe
+X:\Study\C#\Project\Hospital Management\Hospital Management\obj\Debug\Hospital Management.pdb
